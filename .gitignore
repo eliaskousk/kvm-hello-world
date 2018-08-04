@@ -1,3 +1,5 @@
 kvm-hello-world
 *.o
 *.img
+/.idea/
+/cmake-build-debug/
